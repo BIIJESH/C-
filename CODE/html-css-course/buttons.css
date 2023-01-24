@@ -1,0 +1,97 @@
+
+  button{
+    background-color: rgb(131, 35, 35);
+    color: aliceblue;
+    border: none;
+    height: 30px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 8px;
+  }
+
+  .click{
+  font-family: 'Courier New', Courier, monospace;
+  color: rgb(248, 250, 250);
+  background-color: rgb(200, 0, 0);
+  height: 36px;
+  width: 105px;
+  font-size: large;
+}
+
+
+.bijesh{
+  background-color: white;
+  border:1px solid rgb(9, 6, 187);
+  color: rgb(1, 8, 10);
+}
+
+.linkedin{
+  background-color: rgb(11, 126, 172);
+  border: none;
+  border-radius: 18px;
+  /* font-size: 12px; */
+  font-weight: bold;
+  cursor: pointer;
+  margin-left: 8px;
+}
+
+.linkedin2{
+  background-color: white;
+  border:1px solid rgb(11, 126, 172);
+  color: rgb(11, 126, 172);
+  border-radius: 18px;
+}
+
+.nike{
+  background-color: rgb(255, 216, 20);
+  color: black;
+  border-radius: 14px;
+  width: 120px;
+  font-weight: lighter;
+  font-size: medium;
+  transition: opacity 1s;
+  transition:background-color 1s,
+  color 1s;
+  transition: box-shadow 0.15s;
+}
+
+.nike:hover {
+  background-color: black ;
+  color: rgb(255, 216, 20) ;
+  opacity: 0.8;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+.nike:active{
+  opacity: 0.8;
+}
+
+.nike2{
+  background-color: rgb(255, 164, 28);
+  color: black;
+  border-radius: 14px;
+  width: 120px;
+  font-size: medium;
+  transition:opacity 0.15s;
+  transition:background-color 1s,
+  color 1s;
+  transition: box-shadow 0.15s
+}
+
+.nike2:hover{
+  background-color: black ;
+  color: rgb(255, 164, 28) ;
+  opacity: 0.8;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+.nike2:active{
+  opacity: 0.8;
+}
+
+/* without making a class 
+p{
+  text-align: center;
+  color: red;
+}
+*/

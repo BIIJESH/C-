@@ -1,0 +1,10 @@
+1 installing of vscode  
+2 notes
+3 notes
+4 variables scope and data types 
+5 basic input output
+6 header files and operators
+7 type casting refrence variables float global variables and more 
+8 constants manipulators and operator precedence
+9 control structure, if else and switch case
+10 for while and do while loops 

@@ -1,0 +1,7 @@
+const int will give you an error because the value cannot be changed later.
+const will not let you change the value 
+
+manipulators
+ endl
+setw
+

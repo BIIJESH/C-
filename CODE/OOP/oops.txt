@@ -1,0 +1,13 @@
+encapsulatoin
+is a process that binds together data and functions in
+a single unnit
+
+abstraction
+is a process to show essential inforamtion and hides uneccessary
+information
+
+polymorphism
+is a process or ability of object to take on multiple 
+forms with same interface
+
+ 
